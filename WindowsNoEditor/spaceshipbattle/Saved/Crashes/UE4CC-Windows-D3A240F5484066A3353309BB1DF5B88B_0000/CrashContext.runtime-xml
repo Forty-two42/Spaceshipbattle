@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>01AE0623450DCC9784F9E6B503410645</ExecutionGuid>
+<CrashGUID>UE4CC-Windows-D3A240F5484066A3353309BB1DF5B88B_0000</CrashGUID>
+<IsEnsure>false</IsEnsure>
+<IsAssert>false</IsAssert>
+<CrashType>Crash</CrashType>
+<ErrorMessage>Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000064</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>16776</ProcessId>
+<SecondsSinceStart>10</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE4-spaceshipbattle</GameName>
+<ExecutableName>spaceshipbattle</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<Symbols>**UE4*Release-4.24-CL-11590370-Win64-Development</Symbols>
+<PlatformName>WindowsNoEditor</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.24.3-11590370+++UE4+Release-4.24</EngineVersion>
+<CommandLine> spaceshipbattle</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>zh-CN</AppDefaultLocale>
+<BuildVersion>++UE4+Release-4.24-CL-11590370</BuildVersion>
+<IsUE4Release>false</IsUE4Release>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>D:/games/spaceshipbattle/WindowsNoEditor/spaceshipbattle/Binaries/Win64/</BaseDir>
+<RootDir>D:/games/spaceshipbattle/WindowsNoEditor/</RootDir>
+<MachineId>78132E32454273B5FF41768645E4CD94</MachineId>
+<LoginId>78132e32454273b5ff41768645e4cd94</LoginId>
+<EpicAccountId>bcd3d018455e4fdbad7093d998e4d0c9</EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>6</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>12</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 1060</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10 (Release 2009)</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>17053237248</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>2</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+spaceshipbattle  0x0000000062cd0000 + 955bf8  
+spaceshipbattle  0x0000000062cd0000 + 318db3f 
+spaceshipbattle  0x0000000062cd0000 + 31c537c 
+spaceshipbattle  0x0000000062cd0000 + 31b09bb 
+spaceshipbattle  0x0000000062cd0000 + 31fa0ed 
+spaceshipbattle  0x0000000062cd0000 + 31d0749 
+spaceshipbattle  0x0000000062cd0000 + 2ebd04f 
+spaceshipbattle  0x0000000062cd0000 + 953578  
+spaceshipbattle  0x0000000062cd0000 + 953891  
+spaceshipbattle  0x0000000062cd0000 + 2ef543f 
+spaceshipbattle  0x0000000062cd0000 + 2ecd8b8 
+spaceshipbattle  0x0000000062cd0000 + 3ba2dc7 
+spaceshipbattle  0x0000000062cd0000 + 3baef77 
+spaceshipbattle  0x0000000062cd0000 + 9910b9  
+spaceshipbattle  0x0000000062cd0000 + 991413  
+spaceshipbattle  0x0000000062cd0000 + 9a0521  
+spaceshipbattle  0x0000000062cd0000 + 3bc702c 
+spaceshipbattle  0x0000000062cd0000 + 3bcc192 
+spaceshipbattle  0x0000000062cd0000 + 350e69f 
+spaceshipbattle  0x0000000062cd0000 + 3518ed8 
+spaceshipbattle  0x0000000062cd0000 + 3393273 
+spaceshipbattle  0x0000000062cd0000 + 3919db  
+spaceshipbattle  0x0000000062cd0000 + 3a3d7c  
+spaceshipbattle  0x0000000062cd0000 + 3a3e3a  
+spaceshipbattle  0x0000000062cd0000 + 3b426f  
+spaceshipbattle  0x0000000062cd0000 + 4bfefe2 
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</PCallStack>
+<PCallStackHash>756E984CA2B4E9619C3B0DC90D89ADFCF2CBB12D</PCallStackHash>
+<Threads><Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + db957d  
+spaceshipbattle  0x0000000062cd0000 + 4c0a0ee 
+VCRUNTIME140     0x0000000007910000 + eff0    
+ntdll            0x000000002a5b0000 + a241f   
+ntdll            0x000000002a5b0000 + 514a4   
+ntdll            0x000000002a5b0000 + a0f4e   
+spaceshipbattle  0x0000000062cd0000 + 2ee04f4 
+spaceshipbattle  0x0000000062cd0000 + 2ec6e6e 
+spaceshipbattle  0x0000000062cd0000 + 955bf8  
+spaceshipbattle  0x0000000062cd0000 + 318db3f 
+spaceshipbattle  0x0000000062cd0000 + 31c537c 
+spaceshipbattle  0x0000000062cd0000 + 31b09bb 
+spaceshipbattle  0x0000000062cd0000 + 31fa0ed 
+spaceshipbattle  0x0000000062cd0000 + 31d0749 
+spaceshipbattle  0x0000000062cd0000 + 2ebd04f 
+spaceshipbattle  0x0000000062cd0000 + 953578  
+spaceshipbattle  0x0000000062cd0000 + 953891  
+spaceshipbattle  0x0000000062cd0000 + 2ef543f 
+spaceshipbattle  0x0000000062cd0000 + 2ecd8b8 
+spaceshipbattle  0x0000000062cd0000 + 3ba2dc7 
+spaceshipbattle  0x0000000062cd0000 + 3baef77 
+spaceshipbattle  0x0000000062cd0000 + 9910b9  
+spaceshipbattle  0x0000000062cd0000 + 991413  
+spaceshipbattle  0x0000000062cd0000 + 9a0521  
+spaceshipbattle  0x0000000062cd0000 + 3bc702c 
+spaceshipbattle  0x0000000062cd0000 + 3bcc192 
+spaceshipbattle  0x0000000062cd0000 + 350e69f 
+spaceshipbattle  0x0000000062cd0000 + 3518ed8 
+spaceshipbattle  0x0000000062cd0000 + 3393273 
+spaceshipbattle  0x0000000062cd0000 + 3919db  
+spaceshipbattle  0x0000000062cd0000 + 3a3d7c  
+spaceshipbattle  0x0000000062cd0000 + 3a3e3a  
+spaceshipbattle  0x0000000062cd0000 + 3b426f  
+spaceshipbattle  0x0000000062cd0000 + 4bfefe2 
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>true</IsCrashed>
+<Registers></Registers>
+<ThreadID>18020</ThreadID>
+<ThreadName>GameThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21284</ThreadID>
+<ThreadName>TaskGraphThreadNP 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15260</ThreadID>
+<ThreadName>TaskGraphThreadNP 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11460</ThreadID>
+<ThreadName>TaskGraphThreadNP 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11400</ThreadID>
+<ThreadName>TaskGraphThreadNP 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10844</ThreadID>
+<ThreadName>TaskGraphThreadNP 4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21080</ThreadID>
+<ThreadName>TaskGraphThreadNP 5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1352</ThreadID>
+<ThreadName>TaskGraphThreadNP 6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7416</ThreadID>
+<ThreadName>TaskGraphThreadNP 7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6816</ThreadID>
+<ThreadName>TaskGraphThreadNP 8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21192</ThreadID>
+<ThreadName>TaskGraphThreadNP 9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17092</ThreadID>
+<ThreadName>TaskGraphThreadHP 10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1080</ThreadID>
+<ThreadName>TaskGraphThreadHP 11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20524</ThreadID>
+<ThreadName>TaskGraphThreadHP 12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21172</ThreadID>
+<ThreadName>TaskGraphThreadHP 13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2792</ThreadID>
+<ThreadName>TaskGraphThreadHP 14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19272</ThreadID>
+<ThreadName>TaskGraphThreadHP 15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20744</ThreadID>
+<ThreadName>TaskGraphThreadHP 16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18932</ThreadID>
+<ThreadName>TaskGraphThreadHP 17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4336</ThreadID>
+<ThreadName>TaskGraphThreadHP 18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1892</ThreadID>
+<ThreadName>TaskGraphThreadHP 19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20628</ThreadID>
+<ThreadName>TaskGraphThreadBP 20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21356</ThreadID>
+<ThreadName>TaskGraphThreadBP 21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16436</ThreadID>
+<ThreadName>TaskGraphThreadBP 22</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17952</ThreadID>
+<ThreadName>TaskGraphThreadBP 23</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9208</ThreadID>
+<ThreadName>TaskGraphThreadBP 24</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5596</ThreadID>
+<ThreadName>TaskGraphThreadBP 25</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20584</ThreadID>
+<ThreadName>TaskGraphThreadBP 26</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19520</ThreadID>
+<ThreadName>TaskGraphThreadBP 27</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9032</ThreadID>
+<ThreadName>TaskGraphThreadBP 28</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990199  
+spaceshipbattle  0x0000000062cd0000 + 99148d  
+spaceshipbattle  0x0000000062cd0000 + 99866b  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10132</ThreadID>
+<ThreadName>TaskGraphThreadBP 29</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990e13  
+spaceshipbattle  0x0000000062cd0000 + 991413  
+spaceshipbattle  0x0000000062cd0000 + c6547d  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9492</ThreadID>
+<ThreadName>StatsThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21000</ThreadID>
+<ThreadName>PoolThread 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20784</ThreadID>
+<ThreadName>PoolThread 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20244</ThreadID>
+<ThreadName>PoolThread 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11208</ThreadID>
+<ThreadName>PoolThread 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20728</ThreadID>
+<ThreadName>PoolThread 4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3900</ThreadID>
+<ThreadName>PoolThread 5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12664</ThreadID>
+<ThreadName>PoolThread 6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13456</ThreadID>
+<ThreadName>PoolThread 7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7016</ThreadID>
+<ThreadName>PoolThread 8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14420</ThreadID>
+<ThreadName>PoolThread 9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5528</ThreadID>
+<ThreadName>PoolThread 10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11180</ThreadID>
+<ThreadName>PoolThread 11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d744   
+KERNELBASE       0x0000000027ef0000 + 4b16e   
+spaceshipbattle  0x0000000062cd0000 + ba4f35  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4052</ThreadID>
+<ThreadName>FAsyncWriter_spaceshipbattle</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 2e4a02c 
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18460</ThreadID>
+<ThreadName>FMediaTicker</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d744   
+KERNELBASE       0x0000000027ef0000 + 4b16e   
+spaceshipbattle  0x0000000062cd0000 + 111753d 
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20508</ThreadID>
+<ThreadName>HttpManagerThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 6cd286  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9168</ThreadID>
+<ThreadName>OnlineAsyncTaskThreadNull DefaultInstance(1)</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12996</ThreadID>
+<ThreadName>PoolThread 12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6992</ThreadID>
+<ThreadName>PoolThread 13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11512</ThreadID>
+<ThreadName>PoolThread 14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5820</ThreadID>
+<ThreadName>PoolThread 15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990e13  
+spaceshipbattle  0x0000000062cd0000 + 991413  
+spaceshipbattle  0x0000000062cd0000 + 26fe474 
+spaceshipbattle  0x0000000062cd0000 + 270376f 
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21140</ThreadID>
+<ThreadName>RenderThread 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d744   
+KERNELBASE       0x0000000027ef0000 + 4b16e   
+spaceshipbattle  0x0000000062cd0000 + dbdf0a  
+spaceshipbattle  0x0000000062cd0000 + 27038a7 
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11956</ThreadID>
+<ThreadName>RTHeartBeat 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 16432fa 
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4920</ThreadID>
+<ThreadName>FMessageBus.DefaultBus.Router</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 4403a53 
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21092</ThreadID>
+<ThreadName>FFileTransferRunnable</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20908</ThreadID>
+<ThreadName>PoolThread 16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10636</ThreadID>
+<ThreadName>PoolThread 17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19292</ThreadID>
+<ThreadName>PoolThread 18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3812</ThreadID>
+<ThreadName>PoolThread 19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5804</ThreadID>
+<ThreadName>PoolThread 20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + a8779e  
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2788</ThreadID>
+<ThreadName>PoolThread 21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d744   
+KERNELBASE       0x0000000027ef0000 + 4b16e   
+spaceshipbattle  0x0000000062cd0000 + dbdf0a  
+spaceshipbattle  0x0000000062cd0000 + 3c41d61 
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10924</ThreadID>
+<ThreadName>ScreenSaverInhibitor</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 2b80d10 
+spaceshipbattle  0x0000000062cd0000 + 2b80b0e 
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18688</ThreadID>
+<ThreadName>AudioMixerRenderThread(1)</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x000000002a5b0000 + 9d144   
+KERNELBASE       0x0000000027ef0000 + 2306e   
+spaceshipbattle  0x0000000062cd0000 + dc0cbf  
+spaceshipbattle  0x0000000062cd0000 + 990e13  
+spaceshipbattle  0x0000000062cd0000 + 991413  
+spaceshipbattle  0x0000000062cd0000 + 30a6e3d 
+spaceshipbattle  0x0000000062cd0000 + dc21df  
+spaceshipbattle  0x0000000062cd0000 + dc1ed4  
+KERNEL32         0x0000000028c30000 + 17614   
+ntdll            0x000000002a5b0000 + 526a1   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21368</ThreadID>
+<ThreadName>AudioThread</ThreadName>
+</Thread>
+</Threads>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>true</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+<EngineData>
+<RHI.RHIName>D3D11</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce GTX 1060</RHI.AdapterName>
+<RHI.UserDriverVersion>497.29</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>30.0.14.9729</RHI.InternalDriverVersion>
+<RHI.DriverDate>12-15-2021</RHI.DriverDate>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+<Platform.AppHasFocus>true</Platform.AppHasFocus>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>
